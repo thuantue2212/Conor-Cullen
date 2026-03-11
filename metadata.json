@@ -1,0 +1,5 @@
+{
+  "name": "Trộn Đề Trắc Nghiệm",
+  "description": "Ứng dụng trộn đề trắc nghiệm tự động và xuất ra file Word.",
+  "requestFramePermissions": []
+}
